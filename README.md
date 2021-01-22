@@ -3,7 +3,7 @@ Coursera Courses
 
 This REPOSITORY contains the certificates I have earned till now i.e technical and non-technical.
 
-TECHNICAL CERTIFICATES:-
+TECHNICAL CERTIFICATES :-
 
   1. OCA Certificate
   2. AWS Fundamentals - Going Cloud Natives
@@ -16,7 +16,7 @@ TECHNICAL CERTIFICATES:-
 =====================================
 
 
-NON-TECHNICAL CERTIFICATES:-
+NON-TECHNICAL CERTIFICATES :-
 
   1. Business Writing - Coursera Certificate
   2. Communication in the 21st Century Workplace - Coursera Certificate
