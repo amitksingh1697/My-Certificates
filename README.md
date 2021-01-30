@@ -7,10 +7,11 @@ TECHNICAL CERTIFICATES :-
 
   1. OCA Certificate
   2. AWS Fundamentals - Going Cloud Natives
-  3. Agile Meets Design Thinking - Coursera Certificate
-  4. Agile Planning for Software Products - Coursera Certificate
-  5. Agile Software Development - Coursera Certificate
-  6. Agile with Atlassian Jira - Coursera Certificate
+  3. Microsoft Azure AI Classroom Series 2021
+  4. Agile Meets Design Thinking - Coursera Certificate
+  5. Agile Planning for Software Products - Coursera Certificate
+  6. Agile Software Development - Coursera Certificate
+  7. Agile with Atlassian Jira - Coursera Certificate
 
 =====================================
 =====================================
