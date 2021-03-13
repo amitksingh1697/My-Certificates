@@ -5,13 +5,14 @@ This REPOSITORY contains the certificates I have earned till now i.e technical a
 
 TECHNICAL CERTIFICATES :-
 
-  1. OCA Certificate
-  2. AWS Fundamentals - Going Cloud Natives
-  3. Microsoft Azure AI Classroom Series 2021
-  4. Agile Meets Design Thinking - Coursera Certificate
-  5. Agile Planning for Software Products - Coursera Certificate
-  6. Agile Software Development - Coursera Certificate
-  7. Agile with Atlassian Jira - Coursera Certificate
+  1. Oracle Certified Associate - ORACLE
+  2. Database for Developers Foundation - ORACLE
+  3. AWS Fundamentals - Going Cloud Natives
+  4. Microsoft Azure AI Classroom Series 2021
+  5. Agile Meets Design Thinking - Coursera Certificate
+  6. Agile Planning for Software Products - Coursera Certificate
+  7. Agile Software Development - Coursera Certificate
+  8. Agile with Atlassian Jira - Coursera Certificate
 
 =====================================
 =====================================
